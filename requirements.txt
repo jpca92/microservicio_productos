@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic[email]
+boto3
+pandas
+pyarrow
+python-dotenv
+gunicorn
+
